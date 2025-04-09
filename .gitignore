@@ -1,0 +1,16 @@
+a
+b
+conv pictures
+env
+extracted_images
+letters
+new_good_letters
+new_good_letters - Backup
+arda_korkmaz.pdf
+Test.py
+Buchstaben_extrahieren.py
+canvas_image.eps
+images.npy
+labels.npy
+.vscode
+    /launch.json
